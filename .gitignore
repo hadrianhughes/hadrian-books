@@ -1,0 +1,5 @@
+.stack-work/
+*~
+**/*.swp
+.DS_Store
+/dist-newstyle
